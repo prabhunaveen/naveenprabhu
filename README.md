@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Cloud Migration Projects**
 
-- 💬 Ask me about **Linux, AWS, AZURE,GCP, Bash,Ansible, Docker, Kubernetes and Terraform**
+- 💬 Ask me about **Linux, AWS, AZURE,GCP, Bash,Ansible, ArgoCD, Docker, Kubernetes and Terraform**
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/naveenprabhu-vijay-39b30192/)**
 
