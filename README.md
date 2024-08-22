@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Linux, AWS, AZURE,GCP, Bash,Ansible, Docker, Kubernetes and Terraform**
 
-- 📫 How to reach me **Linkedin**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/naveenprabhu-vijay-39b30192/)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/naveenprabhu-vijay-39b30192/](https://www.linkedin.com/in/naveenprabhu-vijay-39b30192/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/naveenprabhu-vijay-39b30192/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
